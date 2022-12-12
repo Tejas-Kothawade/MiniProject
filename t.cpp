@@ -1,4 +1,4 @@
-#include<iostream>               //aai zawli
+#include<iostream>               
 
 #include<stdio.h>
 
